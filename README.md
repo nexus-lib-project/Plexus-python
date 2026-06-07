@@ -1,4 +1,4 @@
-*All Rights Reserved. © 2026 Arlo James Proctor. Unauthorized copying, modification, or use of this code is strictly prohibited. Please contact  to request permission.*
+All Rights Reserved. © 2026 Arlo James Proctor. Unauthorized copying, modification, or use of this code is strictly prohibited. Please contact  to request permission.
 
 # Plexus AGI Framework
 
