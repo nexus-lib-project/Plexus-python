@@ -1,3 +1,5 @@
+*All Rights Reserved. © 2026 Arlo James Proctor. Unauthorized copying, modification, or use of this code is strictly prohibited. Please contact  to request permission.
+
 # Plexus AGI Framework
 
 *A biologically-inspired Python library for neurochemical and deep learning systems supporting AGI development.*
